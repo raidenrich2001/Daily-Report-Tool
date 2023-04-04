@@ -1,0 +1,9 @@
+#view {
+    padding: 122px 0;
+    overflow: hidden;
+  }
+  @media (min-width: 1920px) {
+    #view {
+    padding: 300px 0;
+    overflow: hidden;}
+  }
